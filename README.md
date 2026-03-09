@@ -1,6 +1,6 @@
 # 💳 Credit Card Customer Intelligence Analysis
 ### A Business Analytics Deep Dive into Spending Behavior, Risk Profiling and Growth Opportunities
-![Banner](banner%20(3).png)
+![Banner](banner%20.png)
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
 ![Pandas](https://img.shields.io/badge/Pandas-2.0-green)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-3.7-orange)
